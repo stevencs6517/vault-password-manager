@@ -2,7 +2,7 @@
 
 A single-file password manager that runs entirely in your browser. **No servers, no accounts, no tracking, no internet required.** Your data is encrypted on your own device and never leaves it.
 
-👉 **[Open the app](https://USERNAME.github.io/REPO/)** *(replace with your live link once GitHub Pages is on)*
+👉 **[Open the app](https://stevencs6517.github.io/vault-password-manager/)** *(live once GitHub Pages is enabled — see below)*
 
 ---
 
